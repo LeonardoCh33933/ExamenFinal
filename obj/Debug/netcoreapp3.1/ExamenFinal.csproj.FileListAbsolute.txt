@@ -1,0 +1,7 @@
+C:\Users\LUHER\source\repos\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csproj.AssemblyReference.cache
+C:\Users\LUHER\source\repos\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.frmCliente.resources
+C:\Users\LUHER\source\repos\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csproj.GenerateResource.cache
+C:\Users\LUHER\source\repos\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUHER\source\repos\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.AssemblyInfoInputs.cache
+C:\Users\LUHER\source\repos\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.AssemblyInfo.cs
+C:\Users\LUHER\source\repos\ExamenFinal\obj\Debug\netcoreapp3.1\ExamenFinal.csproj.CoreCompileInputs.cache
